@@ -1,0 +1,7848 @@
+fileFormatVersion: 2
+guid: f56c4a7c21a150346ba4e91fd2516860
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fondo Entorno
+    21300002: Overlay Bunker
+    21300004: "Overlay Monta\xF1a 1"
+    21300006: "Overlay monta\xF1a 2"
+    21300008: Fondo casa 1
+    21300010: Frente casa 1
+    21300012: Casa 1
+    21300014: Fondo casa 2
+    21300016: Frente casa 2
+    21300018: Casa 2
+    21300020: Escombros casa
+    21300022: Overlay Zona Inicial
+    21300024: "Corniza Balc\xF3n"
+    21300026: Pared Destruible 1
+    21300028: Pared destruible 2
+    21300030: Pared destruible 3
+    21300032: Pared destruible 4
+    21300034: Overlay Techo 1
+    21300036: Overlay techo 2
+    21300038: Fondo Inicial 1
+    21300040: "Fondo Monta\xF1as"
+    21300042: Bar
+    21300044: Bar destruido
+    21300046: Torre
+    21300048: Torre Destruida
+    21300050: Pasamanos A 1
+    21300052: Pasamanos B 1
+    21300054: Pasamanos B 2
+    21300056: Pasamanos A 2
+    21300058: Techo madera 1
+    21300060: OverlayLibreria 1
+    21300062: Overlay libreria 2
+    21300064: Overlay Libreria 3
+    21300066: Overlay Hall 1
+    21300068: Overlay hall 2
+    21300070: Luces 1
+    21300072: Luces 2
+    21300074: Luces 3
+    21300076: Luces 4
+    21300078: Luces 5
+    21300080: Luces 6
+    21300082: Luces 7
+    21300084: Luces 8
+    21300086: Ventilador 1
+    21300088: Ventilador 2
+    21300090: Ventilador 3
+    21300092: Ventilador 4
+    21300094: Ventilador 5
+    21300096: Ventilador 6
+    21300098: Ventilador 7
+    21300100: Ventilador 8
+    21300102: "Escombros monta\xF1a 1"
+    21300104: "Escombros monta\xF1a 2"
+    21300106: "Escombros monta\xF1a 3"
+    21300108: "Escombros monta\xF1a 4"
+    21300110: "Escombros monta\xF1a 5"
+    21300112: "Escombros monta\xF1a 6"
+    21300114: "Escombros monta\xF1a 7"
+    21300116: "Escombros monta\xF1a 8"
+    21300118: "Escombros monta\xF1a 9"
+    21300120: "Escombros monta\xF1a 10"
+    21300122: "Escombros monta\xF1a 11"
+    21300124: "Escombros monta\xF1a 12"
+    21300126: Derrumbe A Etapa A 1
+    21300128: Derrumbe A Etapa A 2
+    21300130: Derrumbe A Etapa A 3
+    21300132: Derrumbe A Etapa A 4
+    21300134: Derrumbe A Etapa A 5
+    21300136: Derrumbe A Etapa A 6
+    21300138: Derrumbe A Etapa A 7
+    21300140: Derrumbe A Etapa A 8
+    21300142: Derrumbe A Etapa A 9
+    21300144: Derrumbe A Etapa A 10
+    21300146: Derrumbe A Etapa A 11
+    21300148: Derrumbe A Etapa B 1
+    21300150: Derrumbe A Etapa B 2
+    21300152: Derrumbe A Etapa B 3
+    21300154: Derrumbe A Etapa B 4
+    21300156: Derrumbe A Etapa B 5
+    21300158: Derrumbe A Etapa B 6
+    21300160: Derrumbe A Etapa B 7
+    21300162: Derrumbe A Etapa B 8
+    21300164: Derrumbe A Etapa B 9
+    21300166: Derrumbe A Etapa B 10
+    21300168: Derrumbe A Etapa B 11
+    21300170: Derrumbe A Etapa B 12
+    21300172: Derrumbe A Etapa B 13
+    21300174: Derrumbe A Etapa B 14
+    21300176: Derrumbe A Etapa B 15
+    21300178: Derrumbe A Etapa B 16
+    21300180: Derrumbe A Etapa B 17
+    21300182: Derrumbe A Etapa B 18
+    21300184: Derrumbe A Etapa B 19
+    21300186: Derrumbe A Etapa B 20
+    21300188: Derrumbe A Etapa B 21
+    21300190: Derrumbe A Etapa C 1
+    21300192: Derrumbe A Etapa C 2
+    21300194: Derrumbe A Etapa C 3
+    21300196: Derrumbe A Etapa C 4
+    21300198: Derrumbe A Etapa C 5
+    21300200: Derrumbe A Etapa C 6
+    21300202: Derrumbe A Etapa C 7
+    21300204: Derrumbe A Etapa C 8
+    21300206: Derrumbe A Etapa C 9
+    21300208: Derrumbe A Etapa C 10
+    21300210: Derrumbe A Etapa C 11
+    21300212: Derrumbe A Etapa C 12
+    21300214: Derrumbe A Etapa C 13
+    21300216: Derrumbe A Etapa C 14
+    21300218: Derrumbe A Etapa C 15
+    21300220: Derrumbe A Etapa C 16
+    21300222: Derrumbe A Etapa C 17
+    21300224: Derrumbe A Etapa C 18
+    21300226: Derrumbe A Etapa C 19
+    21300228: Derrumbe A Etapa C 20
+    21300230: Derrumbe A Etapa C 21
+    21300232: Derrumbe A Etapa C 22
+    21300234: Derrumbe A Etapa C 23
+    21300236: Derrumbe A Etapa C 24
+    21300238: Derrumbe A Etapa C 25
+    21300240: Derrumbe A Etapa C 26
+    21300242: Derrumbe A Etapa C 27
+    21300244: Derrumbe A Etapa C 28
+    21300246: Derrumbe A Etapa C 29
+    21300248: Derrumbe A Etapa C 30
+    21300250: Derrumbe A Etapa C 31
+    21300252: Derrumbe A Etapa C 32
+    21300254: Derrumbe A Etapa C 33
+    21300256: Derrumbe B Etapa A 1
+    21300258: Derrumbe B Etapa A 2
+    21300260: Derrumbe B Etapa A 3
+    21300262: Derrumbe B Etapa A 4
+    21300264: Derrumbe B Etapa A 5
+    21300266: Derrumbe B Etapa A 6
+    21300268: Derrumbe B Etapa A 7
+    21300270: Derrumbe B Etapa A 8
+    21300272: Derrumbe B Etapa A 9
+    21300274: Derrumbe B Etapa A 10
+    21300276: Derrumbe B Etapa A 11
+    21300278: Derrumbe B Etapa A 12
+    21300280: Derrumbe B Etapa A 13
+    21300282: Derrumbe B Etapa A 14
+    21300284: Derrumbe B Etapa B 1
+    21300286: Derrumbe B Etapa B 2
+    21300288: Derrumbe B Etapa B 3
+    21300290: Derrumbe B Etapa B 4
+    21300292: Derrumbe B Etapa B 5
+    21300294: Derrumbe B Etapa B 6
+    21300296: Derrumbe B Etapa B 7
+    21300298: Derrumbe B Etapa B 8
+    21300300: Derrumbe B Etapa B 9
+    21300302: Derrumbe B Etapa B 10
+    21300304: Derrumbe B Etapa B 11
+    21300306: Derrumbe B Etapa B 12
+    21300308: Derrumbe B Etapa B 13
+    21300310: Derrumbe B Etapa B 14
+    21300312: Derrumbe B Etapa B 15
+    21300314: Derrumbe B Etapa B 16
+    21300316: Derrumbe B Etapa B 17
+    21300318: Derrumbe B Etapa B 18
+    21300320: Derrumbe B Etapa B 19
+    21300322: Derrumbe B Etapa B 20
+    21300324: Derrumbe B Etapa B 21
+    21300326: Derrumbe B Etapa C 1
+    21300328: Derrumbe B Etapa C 2
+    21300330: Derrumbe B Etapa C 3
+    21300332: Derrumbe B Etapa C 4
+    21300334: Derrumbe B Etapa C 5
+    21300336: Derrumbe B Etapa C 6
+    21300338: Derrumbe B Etapa C 7
+    21300340: Derrumbe B Etapa C 8
+    21300342: Derrumbe B Etapa C 9
+    21300344: Derrumbe B Etapa C 10
+    21300346: Derrumbe B Etapa C 11
+    21300348: Derrumbe B Etapa C 12
+    21300350: Derrumbe B Etapa C 13
+    21300352: Derrumbe B Etapa C 14
+    21300354: Derrumbe B Etapa C 15
+    21300356: Derrumbe B Etapa C 16
+    21300358: Derrumbe B Etapa C 17
+    21300360: Derrumbe B Etapa C 18
+    21300362: Derrumbe B Etapa C 19
+    21300364: Derrumbe B Etapa C 20
+    21300366: Derrumbe B Etapa C 21
+    21300368: Derrumbe B Etapa C 22
+    21300370: Derrumbe B Etapa C 23
+    21300372: Derrumbe B Etapa C 24
+    21300374: Derrumbe B Etapa C 25
+    21300376: Derrumbe B Etapa C 26
+    21300378: Derrumbe B Etapa C 27
+    21300380: Derrumbe B Etapa C 28
+    21300382: Derrumbe B Etapa C 29
+    21300384: Derrumbe B Etapa C 30
+    21300386: Derrumbe B Etapa C 31
+    21300388: Derrumbe B Etapa C 32
+    21300390: Derrumbe B Etapa C 33
+    21300392: Torreta A reposo
+    21300394: Torreta A destruida
+    21300396: Torreta B pinchos reposo
+    21300398: Torreta B reposo
+    21300400: Torreta B destruida
+    21300402: Torreta Escombros
+    21300404: Torreta B pinchos destruida
+    21300406: Torreta C reposo
+    21300408: Torreta C fondo puerta
+    21300410: Torreta C fondo ventana
+    21300412: Torreta D reposo
+    21300414: Torreta D fondo ventana
+    21300416: Torreta E reposo
+    21300418: Torreta E fondo ventana
+    21300420: Torreta D destruida
+    21300422: Torreta D fondo ventana destruida
+    21300424: Torreta C destruccion 1
+    21300426: Torreta C destruccion 2
+    21300428: Torreta C destruccion 3
+    21300430: Torreta C destruccion 4
+    21300432: Torreta C destruccion 5
+    21300434: Torreta C destruccion 6
+    21300436: Torreta C destruccion 7
+    21300438: Torreta C destruccion 8
+    21300440: Torreta D destruccion 1
+    21300442: Torreta D destruccion 2
+    21300444: Torreta D destruccion 3
+    21300446: Torreta D destruccion 4
+    21300448: Torreta D destruccion 5
+    21300450: Torreta D destruccion 6
+    21300452: Torreta D destruccion 7
+    21300454: Torreta D destruccion 8
+    21300456: Torreta destruccion 1
+    21300458: Torreta destruccion 2
+    21300460: Torreta destruccion 3
+    21300462: Torreta destruccion 4
+    21300464: Torreta destruccion 5
+    21300466: Torreta destruccion 6
+    21300468: Torreta destruccion 7
+    21300470: Torreta destruccion 8
+    21300472: Torreta destruccion 9
+    21300474: "Ca\xF1on saliendo 1"
+    21300476: "Ca\xF1on saliendo 2"
+    21300478: "Ca\xF1on saliendo 3"
+    21300480: "Ca\xF1on saliendo 4"
+    21300482: "Ca\xF1on saliendo 5"
+    21300484: "Ca\xF1on saliendo 6"
+    21300486: "Ca\xF1on saliendo 7"
+    21300488: "Ca\xF1on disparo 1"
+    21300490: "Ca\xF1on disparo 2"
+    21300492: "Ca\xF1on disparo 3"
+    21300494: "Ca\xF1on torreta saliendo 1"
+    21300496: "Ca\xF1on torreta saliendo 2"
+    21300498: "Ca\xF1on torreta saliendo 3"
+    21300500: "Ca\xF1on torreta saliendo 4"
+    21300502: "Ca\xF1on torreta saliendo 5"
+    21300504: "Ca\xF1on torreta saliendo 6"
+    21300506: "Ca\xF1on torreta saliendo 7"
+    21300508: "Ca\xF1on torreta saliendo 8"
+    21300510: "Ca\xF1on torreta saliendo 9"
+    21300512: "Ca\xF1on torreta reposo izquierda"
+    21300514: "Ca\xF1on torreta reposo derecha"
+    21300516: "Ca\xF1on torreta da\xF1ado izquierda"
+    21300518: "Ca\xF1on torreta da\xF1ado derecha"
+    21300520: "Ca\xF1on torreta disparo izquierda 1"
+    21300522: "Ca\xF1on torreta disparo izquierda 2"
+    21300524: "Ca\xF1on torreta disparo izquierda 3"
+    21300526: "Ca\xF1on torreta da\xF1ado disparo izquierda 1"
+    21300528: "Ca\xF1on torreta da\xF1ado disparo izquierda 2"
+    21300530: "Ca\xF1on torreta da\xF1ado disparo izquierda 3"
+    21300532: "Ca\xF1on torreta girando 1"
+    21300534: "Ca\xF1on torreta girando 2"
+    21300536: "Ca\xF1on torreta girando 3"
+    21300538: "Ca\xF1on torreta da\xF1ado girando 1"
+    21300540: "Ca\xF1on torreta da\xF1ado girando 2"
+    21300542: "Ca\xF1on torreta da\xF1ado girando 3"
+    21300544: "Ca\xF1on torreta disparo derecha 1"
+    21300546: "Ca\xF1on torreta disparo derecha 2"
+    21300548: "Ca\xF1on torreta disparo derecha 3"
+    21300550: "Ca\xF1on torreta da\xF1ado disparo derecha 1"
+    21300552: "Ca\xF1on torreta da\xF1ado disparo derecha 2"
+    21300554: "Ca\xF1on torreta da\xF1ado disparo derecha 3"
+    21300556: SFX Proyectil 1
+    21300558: SFX Proyectil 2
+    21300560: SFX Proyectil 3
+    21300562: SFX Proyectil 4
+    21300564: SFX Proyectil 5
+    21300566: SFX Proyectil 6
+    21300568: SFX Proyectil 7
+    21300570: SFX Proyectil 8
+    21300572: SFX Proyectil 9
+    21300574: SFX Proyectil 10
+    21300576: SFX Proyectil 11
+    21300578: SFX Proyectil 12
+    21300580: SFX Proyectil 13
+    21300582: SFX Proyectil 14
+    21300584: SFX Proyectil 15
+    21300586: SFX Proyectil 16
+    21300588: SFX Proyectil 17
+    21300590: SFX Proyectil 18
+    21300592: SFX Proyectil 19
+    21300594: SFX Proyectil 20
+    21300596: SFX Proyectil B 1
+    21300598: SFX Proyectil B 2
+    21300600: SFX Proyectil B 3
+    21300602: SFX Proyectil B 4
+    21300604: SFX Proyectil B 5
+    21300606: SFX Proyectil B 6
+    21300608: SFX Proyectil B 7
+    21300610: SFX Proyectil B 8
+    21300612: SFX Proyectil B 9
+    21300614: Proyectil colores 1
+    21300616: Proyectil colores 2
+    21300618: Proyectil colores 3
+    21300620: Proyectil colores 4
+    21300622: Proyectil colores 5
+    21300624: Proyectil colores 6
+    21300626: Proyectil colores 7
+    21300628: Proyectil colores 8
+    21300630: Proyectil colores 9
+    21300632: Proyectil colores 10
+    21300634: Proyectil colores 11
+    21300636: Proyectil colores 12
+    21300638: Proyectil colores 13
+    21300640: Proyectil colores 14
+    21300642: Proyectil colores 15
+    21300644: Proyectil colores 16
+    21300646: Proyectil colores 17
+    21300648: Proyectil colores 18
+    21300650: Proyectil colores 19
+    21300652: Proyectil colores 20
+    21300654: Proyectil colores 21
+    21300656: Proyectil colores 22
+    21300658: Proyectil colores 23
+    21300660: Proyectil colores 24
+    21300662: Proyectil colores 25
+    21300664: Proyectil colores 26
+    21300666: Proyectil colores 27
+    21300668: Proyectil colores 28
+    21300670: Proyectil colores 29
+    21300672: Proyectil colores 30
+    21300674: Proyectil colores 31
+    21300676: Proyectil colores 32
+    21300678: Proyectil colores 33
+    21300680: Proyectil colores 34
+    21300682: Proyectil colores 35
+    21300684: Proyectil colores 36
+    21300686: Proyectil colores 37
+    21300688: Proyectil colores 38
+    21300690: Proyectil colores 39
+    21300692: Proyectil colores 40
+    21300694: Proyectil colores 41
+    21300696: Proyectil colores 42
+    21300698: Debris 1
+    21300700: Debris 2
+    21300702: Debris 3
+    21300704: Debris 4
+    21300706: Debris 5
+    21300708: Debris 6
+    21300710: Debris 7
+    21300712: Debris 8
+    21300714: Debris 9
+    21300716: Debris 10
+    21300718: Debris 11
+    21300720: Debris 12
+    21300722: Debris 13
+    21300724: Debris 14
+    21300726: Debris 15
+    21300728: Debris 16
+    21300730: Debris 17
+    21300732: Debris 18
+    21300734: Debris 19
+    21300736: Debris 20
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fondo Entorno
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 4048
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da813a63ff08f914eb1511a725353f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay Bunker
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 952
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8fb9ccd18dae74c94787f8f353f89c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Overlay Monta\xF1a 1"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 981
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b32e959a955e438ceed3e8f82ef6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Overlay monta\xF1a 2"
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 981
+        width: 512
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440586318b2297143a1633293b0c7969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo casa 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 695
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37c0fe3d3eed8e4e990fad37199651a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frente casa 1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 685
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b775b0612be02a04cb75bd9f3011f462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa 1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 685
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c287a3ad9b4bf43b401db7d9718f5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo casa 2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 583
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671fe7c5e5160b4387cbd5d26491d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frente casa 2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 558
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e0ac4ba71d8a4c910999e2bb888a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casa 2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 558
+        width: 133
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed471d5146b84468b944efe50e64d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escombros casa
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 502
+        width: 113
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e25f64e59db174caca1f6d5f8076ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay Zona Inicial
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 438
+        width: 164
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4459297c4b7c344bbf671255402b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Corniza Balc\xF3n"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 764
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a82305260e8b9048a654ad67de502b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pared Destruible 1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 644
+        width: 94
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eda6ded2b19fc409f56e1810b5ab2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pared destruible 2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 644
+        width: 77
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca534fa74c0c7994e873d7a9dfeede7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pared destruible 3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 644
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a916e92e5872245be7485f738a2ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pared destruible 4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 644
+        width: 84
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc90f084a0ad2b49babffb96ff303f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay Techo 1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 601
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fa6161d7b6f6449347dba6d06981a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay techo 2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 605
+        width: 128
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e196732215f9c444a89e497fd0b09592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo Inicial 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 304
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0939d66ad84479479d1bd6b9b5ab0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fondo Monta\xF1as"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 1615
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31499c51b0ecd24380113160a796f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 110
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab62e421700973f47b488e42aeed6763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar destruido
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 294
+        width: 128
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0facfd1caa474da4758f7aaeee1b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 299
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926996e2a264cf40b589a6d7d7b58e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre Destruida
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 299
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0c5884e21e82498a1d1132ca88b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasamanos A 1
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 299
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98e4f402ab9f94ab0a175b44c3cf9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasamanos B 1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 341
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39641459b86bc4d82849e05939ecdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasamanos B 2
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 341
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c4b0e6d22a6374e8e91edc263c7a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasamanos A 2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 299
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2013863fd4cd4094b82604cfaeea0fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Techo madera 1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 525
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81ba181759f4a4fb385c64f94ea176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlayLibreria 1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 394
+        width: 227
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab573b407525a7443bdfca1c1b4ec2dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay libreria 2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 394
+        width: 182
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e6584e91d3b34eb2bfc451fca5bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay Libreria 3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 394
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a06a2ce8807664caa487b1b1f0f9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay Hall 1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 384
+        width: 303
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dfbed1658ab2c46baa68b5378c6c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Overlay hall 2
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 384
+        width: 88
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea356ef26445a24bbb45ca8259d23b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 1
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 763
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f18f51f99d93f438fd46c27179490b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 763
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65919051217916c40b35b518bcbf7ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 763
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258bc098f48760f4b84132562c833fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 4
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 763
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eca7ac7153121468e8e48693e27e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 5
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 762
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5627bef292134892d0192f6a63695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 6
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 762
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43386f3df3fe5d449a8e98521f632918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 7
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 763
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb269d411601294d9404a13afe8f70c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luces 8
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 762
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a175c06d0e0f2249b97ef4411e5abca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 709
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16938c61fe6ed24478bffb75cd7f04a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 709
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df532c013884114ab19b7b8eded6638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 709
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a31d53687d3a46b7af75f92acd30b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 4
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 710
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217b1d8fb15b954e8ca573dfff2327c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 711
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0d96424fcb4d843bf217d8b02e5f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 6
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 710
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441ac72f881bc3429fd0d5c7a43df00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 7
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 710
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c77a288365244a83eeb7f92f6efbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventilador 8
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 709
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dcebbce091d1041a2446b004d9dcaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 1"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 665
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595f6c189a88044583cbc31aab6edaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 2"
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 654
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc71a348a8e0734d80b065f9abfcd29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 3"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 644
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c55ef2717acdc44a206a0562334db0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 4"
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 634
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d652a614bc318240b53c10c3d9e2b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 5"
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 621
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38151c136ccd24646aeba1b0a5054c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 6"
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 609
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49978dc17d6617c4da7adf43fbb14b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 7"
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 609
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1239f186c805f448e75b174ebad1d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 8"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 621
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed68e4e0f3a2794bbe44bcc9ddb0438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 9"
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 619
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816569b4048b44f47994f7c81bb461c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 10"
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 620
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8e78df4b320cd4897d563a779031f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 11"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 620
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d503bf99262c1d744bed5fa93136edd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Escombros monta\xF1a 12"
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 617
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd01c7e59162cf448c2f762a0665d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e496503fcdac53641be1f5ebf71935ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 2
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f27c3628ae054fa0669ced25b59b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 3
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b066786956d47e745bc50f92f1c56c75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 4
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48961b6f37eaf1c4790c1e7853d97a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 5
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8254ff8b8cd748810a1d8cbc5a3d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 6
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad61b2790557744aba8b63c8d798463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 7
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67fa64cc54bf947a685be3cd1befda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 8
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32afb22f65fab14fa82169e54fa8721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 9
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01217d3415d86742b3ff5a0f5a17a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 10
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b5eef40782d9049bfd3fd9c503208c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa A 11
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015fbe0712b4d5f42894782a96be9569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 1
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e55b2e43188134781f4e7dc146266f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 2
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d7be0160bb6f48b197fae43428964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 3
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f67a310d8cae4ea471ec346ad915e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 4
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21be05f8c7c6c40adf253c417fad51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 5
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec86712ade54874687291679be18503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 6
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d20ba1989e1744b28b53df8301afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 7
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590aa2462249ad44aa77dbf178555ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 8
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b6fed4c4232f4d8211950fa80c3d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 9
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8713c069acc1c74b95b8b0bd10da397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 10
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b52bf590c9e404ab5f8ebd0d2cd1ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 11
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5b81ca739ef9a40867e1994c39cf3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 12
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea74ef98936d224db95a672730c23b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 13
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad06383d4e43342828b34f8d781ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 14
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72017c4ead7884089bdf1a5073a84e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 15
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5429c732bdc67c41b6341e5d3beeb80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 16
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafcce5f890d8241b179675ae700f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 17
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c21be88f2ecd94eaf19ccf9fa7ab16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 18
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be0cec39986394993032cbe0173d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 19
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 700
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99046ec80adbd124194fbb68e57d5b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 20
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dad5c1878e1cf409dde21ebc5c55fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa B 21
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 700
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069e0e835db037408f222430cb16edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 587
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478b16dc42d2199479f6ebf9a11679d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 2
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 587
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b6c3dca0aa614dbed4c11854035ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 3
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 588
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fdbf19457688b4ebfcbfbdb74cc27d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 4
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 588
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec322a125eff204599bff4b24afceb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 5
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 589
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287f7554273a494d96e750f6c204c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 6
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 589
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5d833199e33fe438656c1eaa909bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 7
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 590
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0d7f6468474443b7bdb227ebef970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 8
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 590
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580fde96b201394a97679f47e2517b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 9
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 591
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e6dd3cd1aa064396a45d951426835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 10
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 591
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b59173e459d74fb09eda54a8e5757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 11
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98d6ad08af249b4ca9f889f313202e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 12
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f4578a72fb99f49807560a3aa1ed09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 13
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092d15bd04ca6b541833259996d11402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 14
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94daae6c4da761d47b38a5a8125e4740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 15
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a37988e07812934cafe10b87dd0f19b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 16
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9837ea0f4e6f4a9a301310efcb35a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 17
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 594
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550c13f290256b84199c22836d71f4a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 18
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f82fee87aa82a4fbf22b7225e31935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 19
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a20313b34d6f4bb731ebe87cb619d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 20
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1c02bfc7226c44b782a30df825b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 21
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f4dab325d7d0479cca921c7527cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 22
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869760014e2aef4fbcfc339181f0c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 23
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e123c2dda4ddb48a055fe0915b3673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 24
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c5fc4c34477c47aa25bad1e4639df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 25
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2cef0d7f846949b25d865621fde2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 26
+      rect:
+        serializedVersion: 2
+        x: 4364
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4492106b783fa541b75dc6feb541d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 27
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cac44c01bf2a4fa37d66106274a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 28
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc59a85b47f2d1469428b91a37bb1e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 29
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa071722f41ea040ae58e2aa220a3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 30
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6d29aed824974dbf0592a5d7e71fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 31
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8677620f1b13464391ab844e87ff97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 32
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de18b0031a36e01458c90d21edf12477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe A Etapa C 33
+      rect:
+        serializedVersion: 2
+        x: 5155
+        y: 594
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af8477f2b85f94dad9bfe9bbdc292b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994427132c149b4692cc48ebaee41d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 2
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f7e6c9c9bb7f40a250b0f11a40f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 3
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdfd42ebf2455468ee000aa1c7a3a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 4
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df7de647a9e2474ca9920b17f0ea070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 5
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c984232e61608b43b3d752e36974d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 6
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12b8453aa4e594393fa4ea48eab9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 7
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c82d7612a6e64db4d8c1a674d60b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 8
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c952d044213a53944965c7d4dbccb2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 9
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681aa1e37f542e4c8c8bbd1e6c0ef93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 10
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605df5ce39f2b374283e2f812135ad22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 11
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950ed50517b1544fb069cb1ddcefb8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 12
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f938bdf3268e64ba906afd7e0f6791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 13
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c7af2c71fdba49816a1c7e2d410be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa A 14
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 471
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e205f8b5f5a54c95ac4ecc0752134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 1
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6f97aa5e90b84d848a6264e3dc19c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 2
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681404f6950d82f4f9cb6eb074f28518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 3
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcdd9905294de847a0fc257edcae2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 4
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e28fc83a1c4894da95b734287b822f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 5
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa42e61ef3b1e6498b10f21f1d34228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 6
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9a4342efaaf4408d734aed7dfe89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 7
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909bb7094bf4d6e45b0c9619d44f12df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 8
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83fa0ed80f0184395aaabf1314be35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 9
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5ec81b57540f4c9f88be4846a76c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 10
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d45ce89284f7843893a252256ed5cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 11
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e48ca69fac9794792cc7800805e80a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 12
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee376501f496449a767388955d6028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 13
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418452e2248b22e428f4ed15ad9600e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 14
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f472e0771840b44eb0f6fbd33911724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 15
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bd3a165416aa74b9e642727697751d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 16
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46b68fa1a98e7479754a233981c7d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 17
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfef2e9b90ce1141a516dc4bb647439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 18
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc240ea6a6aedf43b65ee9d30603b32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 19
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 471
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f706b4e473def4d9da08603e351543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 20
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792b7adafeec3e44b5195a598f5746f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa B 21
+      rect:
+        serializedVersion: 2
+        x: 4679
+        y: 471
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b031c1d87b704fbc584aad3afbb30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 1
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 355
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c570fe19cbee458262b2b5d3ec2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 2
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 355
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9d289a1055fdb45ad9636a274e17a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 3
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 356
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5c58bc1cacb440bef3ddff50cc47a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 4
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 356
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe467002bfb7994db7dd31639ab8ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 5
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 357
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeac0fcfe546ce4baad60692006c7a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 6
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 357
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e523c373e9466a4893ce991c075b729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 7
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 358
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b218bea782e0bc40a16e67feacc3880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 8
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 358
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f12fe8dc9744439d08fb50d5a2d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 9
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 359
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9111de897906644eb1863cd8bb1811b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 10
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 359
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3f7a4dff24e248bac1429c477c5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 11
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbef9d5455ef8846b131428cb1b6b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 12
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f013575d56a5af488484522fb46ac34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 13
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4bb64376d493a429fbf68b87a1aa86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 14
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcfb83a8fb618409e69053b32216d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 15
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc873e7b93a84d4dae9d0bdc3ab8a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 16
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69f7c62d3c24842affc35b7625a793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 17
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79bb9ee4ec7f945a97b24ff6d778b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 18
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc739521a8f0445a7e8dde9ef03dd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 19
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868bc62a8214764cb104c9cdce7af60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 20
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f85e3169c83a4e89ff744fa607e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 21
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d12c0f366fef14b83399b4e98acb43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 22
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ece7559a88a546998cc273b388ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 23
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abdad91bdb276849abbcf4e96216465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 24
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f3f24067202ea4aab6e6033c64ce92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 25
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb6eebfd17b9d44bee8c6d8a5cc808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 26
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec8bdc369d1ff4ba734b08d0f86509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 27
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcb3bf495102f44d8c73330416541e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 28
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd76cda8f9abc469460486ae988c2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 29
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ff2e737c6e014993140339dcafc4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 30
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8494e94e676ba4fa03a13847e2ad7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 31
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2654e8bb63fe428ce037747b8a22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 32
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abe34c7a47ed3429997a7daf9c1c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrumbe B Etapa C 33
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 362
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84cc6cf81f956b48a31b6b846f5d7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta A reposo
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 287
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5feb4e601f96d844b22df511f6b5105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta A destruida
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 287
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb596abb860bfa46a2bdff1fd2d248c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta B pinchos reposo
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 246
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca8ed761c271e4b875e7ef44a895b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta B reposo
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 179
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd46def9f2d58c84182aca6dc467ffe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta B destruida
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 179
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a4088f78f7beb4abe4b0d3ea366f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta Escombros
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 179
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f348a99e207800a4db22436dad602b3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta B pinchos destruida
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 246
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e3e4575ceabd4d839d156880b1ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C reposo
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 179
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b677b7b2112e459f432861a87eb4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C fondo puerta
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 179
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b8c2d8cb13494aadacc976271a102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C fondo ventana
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 186
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc600c2a207bf74eb98bd3fceba8464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D reposo
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 101
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cded75045a7f1499b92e2a3afb6b03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D fondo ventana
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 125
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c64c797ee10b46aaed4dc4b7868bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta E reposo
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 36
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d5070baf87634b94bbcf7a553220b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta E fondo ventana
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 60
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f1559b6d045341b8d65afa31d720d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruida
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 36
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2468db09b4eb46aa39183a7cc7514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D fondo ventana destruida
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 61
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fec6ee4ef396b49a7e02801db6e75a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 1
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 118
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e56dfb3924424fb374dd999f04761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 2
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 109
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e385f53701da4e8789c6d407ec513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 3
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 99
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2661f94f55984bae0f89b428d144d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 4
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 97
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff0d7729eabda44fa8cebb40dddd69d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 5
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 96
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b755c225b6b1d4199cb8a3621c1ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 6
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 96
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64024b0afe85140bc7317ef5c2df33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 7
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 97
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2110a5ebc5f804c96189a2e9025280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta C destruccion 8
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 94
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b15ca5e7c14241b69ca9f5a959897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 1
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 31
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e7dba94d4c174eaf67faf234955b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 2
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 26
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6419e00743ee43bfe93663d1b7ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 3
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 16
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d54162c72eebe4dbdec842c6bad58f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 4
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 14
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4093d89a52bee49bda64917bda8d4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 5
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 13
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90617a312c7b22f40bde71f3aae9e63a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 6
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 13
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac96fa4cad546cd43a60c8c26bd5b501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 7
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 14
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748cffa435786794e8e4e5c4ec2282af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta D destruccion 8
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 9
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd87ed4d200b547be7cf457abf5119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 1
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 86
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bfa57a15d7d0342978feedf0af3e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 2
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 83
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a9282d690b8a418c182cde043fe11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 3
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 81
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef97ea6f31bfa1a4f89567952ab26a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 4
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 86
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02cee149e00a5f489f2ef2525567f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 5
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 86
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcf27dcc6f91f94a81ca4ab50bbedef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 6
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 85
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec770f848b209924ca2715a0b3864284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 7
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 84
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22c3773eb901e44b98bd49b996d37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 8
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 130
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97723d5bed1c4478635be9b1d20dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torreta destruccion 9
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 157
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e698c9876f38a742b8cd0641bec369e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 1"
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 252
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0abe1d52a4caa4db85859159173bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 2"
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b934e1615be8f429b69fb593823f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 3"
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 252
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6d7739a8a5c494ebf0c354aa39590a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 4"
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 252
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96408b7d8717234d85ccdb528ae6aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 5"
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 251
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4f2c6cfab42640919ebd04ca0514d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 6"
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 251
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9934eadfcf1844ae03bc46b03a007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on saliendo 7"
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 251
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a32f40cb45b74da1d1a107e0eae72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on disparo 1"
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 251
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7803ec327133761438ace72a55d7f3a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on disparo 2"
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 251
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f54d5e86e46046a569cbf6bc93503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on disparo 3"
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 251
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17287b6a49c8c6a409107082cdc4e581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 1"
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 327
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f06388f7ccc84143834cbf3a094bf11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 2"
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 327
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643b71c05c801c64882f2d0c5189478b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 3"
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 327
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618fe619607f78c4f9f6289457a8d8bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 4"
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 327
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6673f2a84a367442b4b389b4022dba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 5"
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 327
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170611d113798d24e9e534ee276d53e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 6"
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 327
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737651ea76e7a9f4db07e3824a891318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 7"
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 327
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8edbe339d562574ea852c94d1f28ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 8"
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 327
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d6c0e145a0c34fb547a5c672fe3ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta saliendo 9"
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 327
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a0ed1729a506048b1493fa5d41558c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta reposo izquierda"
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 327
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f948beb1602747a1dc7e3827cf2aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta reposo derecha"
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 327
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c52d8871f2bb4aa8814f609e6dc8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado izquierda"
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 297
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577b95014765eb4bb45496e5e4e675a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado derecha"
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 297
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071f89b0a3ba134b9bd5a078eb89f2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta disparo izquierda 1"
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 312
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac38178717fc840827b07c085086a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta disparo izquierda 2"
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 312
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f054ae42d9268954b9b0f1e4689b0ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta disparo izquierda 3"
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 312
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437a1bdc65f8a5409e613c9435aee22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado disparo izquierda 1"
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 282
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b99be7fb263174f9615941fc835ad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado disparo izquierda 2"
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 282
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006591d273429304f9f3f21b63de603d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado disparo izquierda 3"
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 282
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661fa13df3d92c14a85404480e05beb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta girando 1"
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 312
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f3e4be64fccd408690ac5c3a606e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta girando 2"
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 312
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2a4a3ff1c434489f1780e7560f245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta girando 3"
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 312
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d89ae915116e42b51af851de68f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado girando 1"
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 280
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4622a0817630749881e6ccdcd240aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado girando 2"
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 280
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da5a6790dbf7d4a9b28629bbd61b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado girando 3"
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 280
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54622a8259b4c204b831bbfa3a675ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta disparo derecha 1"
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 312
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d754395cef41944a924f926f37184e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta disparo derecha 2"
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 312
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f3eb891f89dea4cb9886a4d89988b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta disparo derecha 3"
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 312
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef54b37abceab479e2ff15148d1728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado disparo derecha 1"
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 282
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba20cb380e74b345a3bd890d2e9a1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado disparo derecha 2"
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 282
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b48d501206b4468bc34da459d6e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on torreta da\xF1ado disparo derecha 3"
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 282
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ecaa6dab4a2448aab142cef78d734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 1
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 233
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2a260d045b524a8eea7328676cb3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 2
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 239
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283f8f1ad16c5f41b4088ce73bd8724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 3
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 251
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17f20e6dc7d8740984842c8204bdcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 4
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 240
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d284914a3a4366049b024b7d68cfc0fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 5
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 234
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1723c900158f42aebaf91fc6782f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 6
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 231
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3eda7cf166fbc4e9a59448226d985f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 7
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 228
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f40336817bffd4abc7c7fa0cbedb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 8
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 226
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600bdee2af2e2194a95159835c05796b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 9
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 226
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96755432afa1ac5458717325c9d693e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 10
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 229
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380adb0fc62d144a8f52956912034ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 11
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 228
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edfa44f15974b646a60cd6cd5305aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 12
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 230
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191971e24b1f07642b753f5f1fdb105c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 13
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 231
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f774fc25c5d93749965de38bcc11f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 14
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 198
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09a95b679725741b3c73fdad12798a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 198
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168267ebd4711fb4492d577517cc1d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 16
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 199
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f1a82a3f37ba40bb69331434453e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 17
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 200
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be01fc2f86fff11468aa304847e483c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 18
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 199
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50783c9437c7a641b2761e083fce8b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 19
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 199
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53b452e0c911f428c6c02f52c49127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil 20
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 200
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f28b79c326caf4b8f4a7749822febc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 1
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 307
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3708ac3751471ed488ce162029df83d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 2
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 311
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22182fea924c0a4d80d00609533e8eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 3
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 296
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696231ec7dcd78748a9e24c7d913d57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 4
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 297
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6afa1f8c5bd5b43b1f1de3cff37e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 5
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 297
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb0123e9e3b724aacc797f971cc7c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 6
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 296
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1339f4c44bc76c43ae75160d9e2a6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 7
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 296
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13f45a1269a6b4aba4669ec79b5b1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 8
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 313
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56f0dcf9fe7ec40be7ba46828c92aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFX Proyectil B 9
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 323
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded4ce38d2b75141a7113055c709bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 1
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 327
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4fb305d9a0a2f45acaf3e8ab59e9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 2
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 327
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2085334754cad45b5600a47941ecf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 3
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 327
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dbb456d5459814d9b32801ac9a05fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 4
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 327
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f461b31d55d1048bebbc1050b7dab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 5
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 328
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21235f23b2a580b46a51e9d0b7211a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 6
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 328
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8ffb98ef8d674a9688e3ab36b6ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 7
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 328
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c5565e6e3b8e47a0d23b11ab5f36e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 8
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 328
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0b2a8714e4ed4b843b0e9ba78ec4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 9
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bf4edba8e097c48959984fb07d81a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 10
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c43c6229a813640834ae22a022b9bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 11
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa63f46b9645d544ad0994a1a5171b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 12
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9adf2eae2d9074f91667f22475dc49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 13
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002e6ecff5cb5b42aec4b9e2fab8852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 14
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02084cc9993184d4baf262542dab8095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 15
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee727f0ad3bcf944a95b22bc52894ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 16
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc410279640e374fa15aa6b07374a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 17
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3123d22fff0824e802257c369fef97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 18
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a6a4c92679184a898c5af05c7e588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 19
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9832b685ab1ec439a9054f7a077a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 20
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee387fb65786939468d60cfe18138fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 21
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 331
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d992488dbfce584a87d2de498966874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 22
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 331
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58349e09113b044e8eb95e29e29130f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 23
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 330
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ea3d04bfe0a24f8684e2e25e30222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 24
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 316
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f7b14b668a6e42903dbfe33461cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 25
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 316
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be610413e3d6c4a9551f34c977ccbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 26
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 316
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa308fa5d0edcf4fa38038ba56a0f4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 27
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 314
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41651db49cdabe04ab2682091bbc6491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 28
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 314
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8781daad129a49801fa0f44dd91ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 29
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 314
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc61b6935376749be250dc411f9a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 30
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 314
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa204bce58d01c24ba96e48d4b99eee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 31
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 313
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05f6870e4dcf34892b17539b1883f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 32
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 313
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c5d6eb6b685a4a91c80ade84fd05f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 33
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 313
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08600108a110bd842a17efdb6d9b21bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 34
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 313
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284f958ad5b36c45b6b6219af540aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 35
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 312
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b11183160b62542b1e9044a83cbd7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 36
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 312
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5adb5fc7afe1f948b4910ec9f5d0516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 37
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 311
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a77d8a3c81a31d448c3123ffb2dea58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 38
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 311
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a21407f487c84c90f760afd9321f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 39
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 311
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38990654393052e4d9625fa090a88d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 40
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 311
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e48cdb056dae49a349e4d01a91a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 41
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 310
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9c2a357bc59464f92112981ab68953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyectil colores 42
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 310
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9d05972444d314592336db3df40312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 1
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 333
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd28a2716841a448aeef89ce46917f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 2
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 333
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60aa69d949736408b5858bc5a58a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 3
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 329
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13740b32ee0e74f9aa763376a09b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 4
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 329
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9411945e0937348a5054e41d857a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 5
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 326
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21038a6eb38824243b9506a67955ef2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 6
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 329
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a043294a20e1a0448ed779abf1b0388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 7
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 327
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273dc5ef0b7a114a81ea991ca27c026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 8
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 329
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172d3c8e8d025946856766edfe79f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 9
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 329
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca6e2594b320454abc1c34bb207d035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 10
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 327
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03595a912be0b5f469a90214f95714f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 11
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 327
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f748962bc46b097458dd09d6be22bd96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 12
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 327
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001b731e1b378fb4e8e5aa7e0dc75886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 13
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 328
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc50b5e78e6e3545a5b422e1cdc4787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 14
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 329
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1e116a994ee54785f4d41d25abddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 15
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 329
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42c178f428a144eadfefa0dffb6d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 16
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 325
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d356b92197e041ad237f4537351d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 17
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 324
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3be25dc1dc943478c36fabd08aa51f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 18
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 327
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4b599d6aeadd4980ae4156c084224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 19
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 323
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480fd7211b06374b87b46e90c9a6b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris 20
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 324
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b892bcec854c45bbbf8355f445358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5ac315b7adab2ea469333bbaccdd7330
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
