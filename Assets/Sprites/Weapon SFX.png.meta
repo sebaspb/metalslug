@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: e9a4fb11a6a34bb40ae2fb1699e73a20
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Bala 1
+    21300002: Bala 2
+    21300004: Bala 3
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -82,7 +85,67 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bala 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb94174cc613a2489de85eaef0ec67b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala 2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ac0daa02f5ba4e997ef74c22941a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bala 3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6575
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524f8a06f1e50d4cbb37f9c9a528014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
