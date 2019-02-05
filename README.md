@@ -1,6 +1,12 @@
 **Réplica Nivel 4 Metal Slug - Practicante SENA**
 -------------
 
+**
+
+## Importante, [documento con notas del proyecto](https://docs.google.com/document/d/1XQGaxOedp-clM6_TPQV3y8FebwP5ivyI1tkYbl1Auec/edit?usp=sharing)
+
+**
+
 Éste proyecto ha sido creado como prueba de trabajo para la empresa Nediar, se seguirán las pautas que se han dado por parte de la empresa en el siguiente documento:
 
 [Pautas a seguir Prueba de Conocimiento Nediar](https://drive.google.com/open?id=0Bzzjk0DHxEylLTUxTmo1SmhabUtBaFFMY2p4dXRDTGhQUWpn)
